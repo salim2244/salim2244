@@ -1,1 +1,1 @@
-# This is New readme file.
+With over two years of experience in Java software development, I have demonstrated versatility and innovation in applying both theoretical and practical knowledge to excel as a developer. I am proficient in leveraging Java technologies to create robust and efficient solutions. Eager to contribute and showcase my skills, I thrive in intellectually stimulating environments while collaborating with emerging talent to drive success.
