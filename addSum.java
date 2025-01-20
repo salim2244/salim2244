@@ -6,6 +6,7 @@ public class addSum {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int add = (a+b);
+        sc.close();
         System.out.println(add);
     }
 }

@@ -1,5 +1,3 @@
-import java.io.*;
-
 class febonacciSeries {
     // Function to print N Fibonacci Number
     static void Fibonacci(int N)
